@@ -7,3 +7,7 @@ https://data.wprdc.org/dataset/playground-equipment/resource/e39ef76e-0a11-47c8-
 https://data.wprdc.org/dataset/pgh/resource/8ac5c768-09ba-43a8-829f-ce4a417d20fb
 # Pools
 https://data.wprdc.org/dataset/city-pools/resource/5cc254fe-2cbd-4912-9f44-2f95f0beea9a
+
+
+# Google Doc for Progress Presentation
+https://docs.google.com/document/d/1p_jrYH0csSE-I0MEBPXs_6PSKJubCo3hesKv-66hLhY/edit
